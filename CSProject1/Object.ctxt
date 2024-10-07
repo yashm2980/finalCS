@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Object
+comment1.params=a\ b\ c
+comment1.target=Object(int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=int\ getSpeed()
+comment5.params=x
+comment5.target=void\ setSpeed(int)
+comment6.params=newSpeed
+comment6.target=void\ updateSpeed(int)
+comment7.params=dx\ dy
+comment7.target=void\ move(int,\ int)
+comment8.params=newSpeed
+comment8.target=void\ updateSpeed(double)
+comment9.params=
+comment9.target=void\ act()
+numComments=10
